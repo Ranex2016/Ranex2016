@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img height="448" width="800" src="https://github.com/Ranex2016/Ranex2016/assets/18156357/c3aa2ab7-d9f8-4bef-bac0-0f7c0025f4f7"  />
-</div>
-
 ### Hi there 👋
 
 <!--
